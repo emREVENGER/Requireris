@@ -1,0 +1,45 @@
+/*EMR */
+
+.bodys {
+  font-family: "Fantasy", arial, serif;
+  font-style: default;
+  color: black;
+  background-color:#078F9C;
+}
+
+.hauteur{
+  margin-top:100px;
+}
+
+
+.marge{
+  font-family: trebuchet,  sans-serif;
+  font-style: small-caps;
+  font-size: 90%;
+  color:white;
+  margin-left:30px;
+}
+
+.input{
+  margin-left: 30px;
+}
+
+.btn{
+  margin-left:10px;
+  height:30px;
+}
+
+.l {
+  width:90px;
+}
+
+
+.footer{
+  font-family: trebuchet,  sans-serif;
+  font-style: small-caps;
+  font-size: 65%;
+  color:white;
+  margin-left:190px;
+  margin-top:50px;
+
+}
